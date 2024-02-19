@@ -1,7 +1,8 @@
 ---
 title: "Arquitectura de software - P2"
 date: "2022-11-01"
-slug: "arquitectura-de-software-p2"
+slug: arquitectura-de-software-p2
+status: draft
 ---
 
 # Arquitectura de software - P2

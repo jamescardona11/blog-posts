@@ -2,6 +2,7 @@
 title: Arquitectura de software - P1
 date: 2023-05-29
 slug: arquitectura-de-software-p1
+status: draft
 ---
 
 # Arquitectura de software - P1
