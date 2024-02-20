@@ -100,8 +100,7 @@ As we mentioned before, Isolates unlike threads, don't share memory, and communi
 
 The entry point of an isolate is a function and must be a top-level or static function. Depending on the method you use to create an isolate, you can pass arguments to the function.
 
-// TODO
-Here is the [link]() to the code if you want to follow along.
+Here is the [link](https://github.com/jamescardona11/isolates) to the code if you want to follow along.
 
 Image you need to calculate a progressive sum of a number.
 
