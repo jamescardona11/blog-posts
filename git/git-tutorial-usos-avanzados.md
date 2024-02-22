@@ -1,7 +1,7 @@
 ---
-title: "Git para todos. Parte 3 - Uso avanzado"
-date: "2022-5-21"
-slug: "git-uso-avanzado-p3"
+title: Git para todos. Parte 3 - Uso avanzado
+date: 2022-5-21
+slug: git-uso-avanzado-p3
 ---
 
 Si llegaste hasta acá, estoy seguro que ya tienes dominado gran parte de lo que se requiere para ser un pro en git.

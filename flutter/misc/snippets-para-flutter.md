@@ -1,7 +1,7 @@
 ---
-title: "Snippets para flutter"
-date: "2022-8-3"
-slug: "snippets-para-flutter"
+title: Snippets para flutter
+date: 2022-8-3
+status: published
 ---
 
 # Snippets para flutter

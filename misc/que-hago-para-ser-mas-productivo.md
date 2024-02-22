@@ -1,7 +1,8 @@
 ---
-title: "¿Qué hago para ser más productivo?"
-date: "2022-7-20"
-slug: "como-hago-para-ser-mas-productivo"
+title: ¿Qué hago para ser más productivo?
+date: 2022-7-20
+slug: como-hago-para-ser-mas-productivo
+status: published
 ---
 
 # ¿Qué hago para ser más productivo?

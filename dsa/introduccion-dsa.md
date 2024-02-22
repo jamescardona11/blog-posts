@@ -1,3 +1,11 @@
+---
+title: Introducción a DSA
+date: 2023-05-29
+slug: introduccion-dsa
+lang: es
+status: draft
+---
+
 # Introducción a DSA
 
 > DSA sería la contracción de Data Structure and Algorithms.

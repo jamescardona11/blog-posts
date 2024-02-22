@@ -1,7 +1,7 @@
 ---
-title: "Git para todos. Parte 1 - Lo básico"
-date: "2022-5-15"
-slug: "git-principiantes-p1"
+title: Git para todos. Parte 1 - Lo básico
+date: 2022-5-15
+slug: git-principiantes-p1
 ---
 
 La idea principal es aprender de git más allá de lo que sé ahora.

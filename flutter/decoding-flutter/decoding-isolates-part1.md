@@ -1,5 +1,5 @@
 ---
-title: 'Decoding Isolates: Basic to advanced concepts - Part1'
+title: Decoding Isolates: Basic to advanced concepts - Part1
 date: 2024-2-20
 slug: decoding-isolates-part1
 status: published

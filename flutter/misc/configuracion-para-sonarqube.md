@@ -1,6 +1,8 @@
 ---
 title: Flutter, Análisis estático de código con SonarQube.
 date: 2021-7-14
+lang: es
+status: published
 ---
 
 # Flutter inspección de código continua con SonarQube para mejorar tu proyecto

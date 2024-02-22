@@ -1,3 +1,10 @@
+---
+title: Explorando las Selaed Clases - Dart
+date: 2022-11-01
+slug: exploring-sealed-clases-dart
+status: published
+---
+
 # Exploring Sealed Classes - Dart
 
 ## Introduction:

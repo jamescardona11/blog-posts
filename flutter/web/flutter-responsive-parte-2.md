@@ -1,7 +1,8 @@
 ---
-title: "Flutter responsive - Parte 2"
-date: "2022-6-24"
-slug: "flutter-responsive-parte-2"
+title: Flutter responsive - Parte 2
+lang: es
+date: 2022-6-24
+status: draft
 ---
 
 ### Empecemos con la versión mobile y tablet

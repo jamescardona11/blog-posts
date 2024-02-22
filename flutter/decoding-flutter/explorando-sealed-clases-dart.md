@@ -1,3 +1,11 @@
+---
+title: Explorando las Selaed Clases - Dart
+date: 2022-11-01
+slug: explorando-sealed-clases-dart
+lang: es
+status: published
+---
+
 # Explorando las Selaed Clases - Dart
 
 ## Introducción:

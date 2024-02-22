@@ -2,6 +2,7 @@
 title: Clojure - ¿Cómo iniciar con lo básico?
 date: 2022-5-4
 slug: clojure-conceptos-basicos
+lang: es
 status: published
 summary: Clojure, un lenguaje funcional moderno, se basa en Lisp. Ofrece inmutabilidad, concurrencia y se integra con Java y JavaScript.
 ---

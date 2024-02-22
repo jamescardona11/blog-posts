@@ -1,7 +1,7 @@
 ---
-title: "Git para todos. Parte 4 - Deshacer errores"
-date: "2022-5-25"
-slug: "git-deshacer-errores-p4"
+title: Git para todos. Parte 4 - Deshacer errores
+date: 2022-5-25
+slug: git-deshacer-errores-p4
 ---
 
 Los errores pueden pasar, el desarrollo de software es un proceso creativo y que involucra personas, las personas cometemos errores.

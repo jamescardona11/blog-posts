@@ -1,7 +1,7 @@
 ---
-title: "Using Streams"
-date: "2022-2-30"
-slug: "using-streams"
+title: Using Streams
+date: 2022-2-30
+status: published
 ---
 
 # Using Streams

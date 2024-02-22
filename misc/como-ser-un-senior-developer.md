@@ -1,7 +1,8 @@
 ---
-title: "¿Cómo ser un senior developer?"
-date: "2022-6-15"
-slug: "como-ser-senior-developer"
+title: ¿Cómo ser un senior developer?
+date: 2022-6-15
+slug: como-ser-senior-developer
+status: published
 ---
 
 # ¿Cómo ser un senior developer?

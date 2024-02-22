@@ -1,7 +1,7 @@
 ---
-title: "Git para todos. Parte 2 - Branches"
-date: "2022-5-17"
-slug: "git-todo-sobre-branches-p2"
+title: Git para todos. Parte 2 - Branches
+date: 2022-5-17
+slug: git-todo-sobre-branches-p2
 ---
 
 Git nos facilita el trabajo proporcionando las branches, esa poderosa herramienta para poder interactuar en "sub-espacios" de trabajo.
