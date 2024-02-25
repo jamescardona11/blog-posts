@@ -6,7 +6,9 @@ lang: es
 status: published
 summary: Git nos facilita el trabajo proporcionando las branches, esa poderosa herramienta para poder interactuar en "sub-espacios" de trabajo. Con esto gestionar equipos distribuidos y crear diferentes flujos de trabajo no es un problema.
 link: https://blog.jamescardona11.com/git-todo-sobre-branches-p2
-series: Git para todos
+serie: 
+  order: 2
+  title: Git para todos
 tags: [git, beginner]
 ---
 
