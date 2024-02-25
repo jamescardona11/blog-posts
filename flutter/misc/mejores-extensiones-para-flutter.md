@@ -2,6 +2,9 @@
 title: Flutter - Top extensiones.
 date: 2022-4-18
 status: published
+slug: mejores-extensiones-para-flutter
+lang: es
+summary: Las extensiones son una gran forma de realizar el trabajo más fácil y rápido. Pueden ser el complemento ideal para tener ayudas visuales o reducir el proceso de desarrollo.
 ---
 
 # Flutter - Mi top extensiones para facilitar mi desarrollo.

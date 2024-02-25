@@ -1,7 +1,13 @@
 ---
 title: Git para todos. Parte 3 - Uso avanzado
 date: 2022-5-21
-slug: git-uso-avanzado-p3
+slug: git-principiantes-p3
+lang: es
+status: published
+summary: En este tutorial y el próximo vamos a ver algunas situaciones particulares y como las podemos gestionar con git.
+link: https://blog.jamescardona11.com/git-uso-avanzado-p3
+series: Git para todos
+tags: [git, beginner]
 ---
 
 Si llegaste hasta acá, estoy seguro que ya tienes dominado gran parte de lo que se requiere para ser un pro en git.

@@ -4,7 +4,8 @@ date: 2022-5-4
 slug: clojure-conceptos-basicos
 lang: es
 status: published
-summary: Clojure, un lenguaje funcional moderno, se basa en Lisp. Ofrece inmutabilidad, concurrencia y se integra con Java y JavaScript.
+summary: Clojure, un lenguaje funcional, ofrece inmutabilidad, rendimiento Java, secuencias perezosas y capacidades de concurrencia, enriqueciendo la programación.
+tags: [clojure, functional]
 ---
 
 Es raro estar escribiendo esto, solo soy un aficionado a clojure. Probablemente, lo hago porque es un reto para mí un lenguaje como este, simplemente quiero ver que puedo crear a partir de esto. **Sic parvis magna.**

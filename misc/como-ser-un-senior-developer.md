@@ -3,6 +3,9 @@ title: ¿Cómo ser un senior developer?
 date: 2022-6-15
 slug: como-ser-senior-developer
 status: published
+lang: es
+summary: Ser un desarrollador de software es mucho más que solo escribir código. Ser un profesional involucra tener, diferentes habilidades que contribuyen a tu empresa, a otras personas y te permiten crecer día a día.
+link: https://blog.jamescardona11.com/como-ser-senior-developer
 ---
 
 # ¿Cómo ser un senior developer?

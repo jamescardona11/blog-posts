@@ -4,6 +4,9 @@ date: 2023-05-29
 slug: introduccion-dsa
 lang: es
 status: draft
+link: https://medium.com/@jamescardona11/introducci%C3%B3n-a-dsa-c5bb4facc6c8
+summary: El objetivo de este post es poder hacer una introducción a BigO, Array y HashTable para empezar a resolver problemas en plataformas como LeetCode.
+tags : [dsa]
 ---
 
 # Introducción a DSA

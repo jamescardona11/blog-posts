@@ -1,8 +1,11 @@
 ---
-title: Explorando las Selaed Clases - Dart
+title: Explorando las Sealed Clases - Dart
 date: 2022-11-01
 slug: exploring-sealed-clases-dart
 status: published
+summary: Sealed Classes offer a powerful solution for controlling the class hierarchy in object-oriented programming. By restricting inheritance to a specific set of subclasses, they provide control, stability, and expressiveness to the code.
+link: https://medium.com/@jamescardona11/exploring-sealed-classes-dart-8bd275a372eb
+tags: [dart, flutter, poo]
 ---
 
 # Exploring Sealed Classes - Dart

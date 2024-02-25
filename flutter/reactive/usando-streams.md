@@ -2,6 +2,9 @@
 title: Usando Streams
 date: 2022-2-30
 status: published
+summary: En esta publicación, exploraremos los conceptos básicos del uso de Streams en Flutter.
+link: https://blog.jamescardona11.com/usando-streams
+tags: [dart, flutter, reactive-programming]
 ---
 
 # Usando Streams

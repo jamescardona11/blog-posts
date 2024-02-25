@@ -1,7 +1,8 @@
 ---
 title: Snippets para flutter
 date: 2022-8-3
-status: published
+status: draft
+summary: Los snippets son una maravilla cuando son usados de forma correcta para mejorar nuestro rendimiento a la hora de crear código. Para cada lenguaje siempre hay muchos y diferentes personas que ofrecen sus snippets para que otras personas se ahorren el tiempo de configurar los propios.
 ---
 
 # Snippets para flutter

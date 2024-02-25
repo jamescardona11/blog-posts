@@ -1,7 +1,13 @@
 ---
 title: Git para todos. Parte 2 - Branches
 date: 2022-5-17
-slug: git-todo-sobre-branches-p2
+slug: git-principiantes-p2
+lang: es
+status: published
+summary: Git nos facilita el trabajo proporcionando las branches, esa poderosa herramienta para poder interactuar en "sub-espacios" de trabajo. Con esto gestionar equipos distribuidos y crear diferentes flujos de trabajo no es un problema.
+link: https://blog.jamescardona11.com/git-todo-sobre-branches-p2
+series: Git para todos
+tags: [git, beginner]
 ---
 
 Git nos facilita el trabajo proporcionando las branches, esa poderosa herramienta para poder interactuar en "sub-espacios" de trabajo.
