@@ -8,7 +8,7 @@ link: https://medium.com/@jamescardona11/decoding-isolates-basic-to-advanced-con
 tags: [Flutter, Dart, Isolates, Concurrency]
 serie: 
   order: 1
-  title: decoding-isolates
+  title: Decoding Isolates
 ---
 
 The post will provide a comprehensive exploration of Dart isolates, covering fundamental concepts and advanced techniques. It will delve into the basics of isolates, their role in concurrency, and how they relate to futures and streams. The discussion will extend to advanced topics, such as message passing, isolates communication, and optimizing performance also I'll show two practical demos.
