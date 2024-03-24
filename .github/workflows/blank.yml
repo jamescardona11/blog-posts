@@ -1,0 +1,27 @@
+name: Commit to Repository2
+
+on:
+  push:
+    branches:
+      - main  # Adjust branch name if needed
+
+jobs:
+  commit_to_repository2:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository2
+        uses: actions/checkout@v2
+        with:
+          repository: jamescardona11/personal-page
+          token: ${{ secrets.SS_TOKEN }} 
+          ref: main 
+
+      - name: Create commit
+        run: |
+          echo "$(date)" >> automated.txt
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add commit.txt
+          git commit -m "Automated commit triggered by changes in blog-posts. - $(date)"
+          git push
