@@ -8,7 +8,7 @@ link: https://medium.com/@jamescardona11/decoding-isolates-basic-to-advanced-con
 tags: [Flutter, Dart, Isolates, Concurrency]
 serie: 
   order: 2
-  title: decoding-isolates
+  title: Decoding Isolates
 ---
 
 In the previous post, we learned the basics of isolates and how to spawn them. 
