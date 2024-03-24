@@ -1,9 +1,9 @@
 ---
-title: Decoding Isolates: Flutter Chrome Extension
+title: Flutter Chrome Extension
 date: 2024-2-21
 status: draft
-summary:  
-link:
+summary:   ''
+link: ''
 tags: [Flutter, Dart, Flutter-Web]
 ---
 
