@@ -441,3 +441,4 @@ If you plan is create an extension that use the Flutter UI; I recommend you to u
 - https://medium.com/flutter-community/building-a-chrome-extension-using-flutter-aeb100a6d6c
 - https://www.dhiwise.com/post/how-to-implement-flutter-js-package-in-your-flutter-apps
 - https://stackoverflow.com/questions/41273787/getting-an-arbitrary-property-from-a-javascript-object-in-dart
+- https://liewjuntung.medium.com/use-javascript-in-flutter-web-a6eed3efb9a0
