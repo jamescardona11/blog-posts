@@ -2,7 +2,7 @@
 title: Flutter Chrome Extension
 date: 2024-2-21
 status: draft
-summary:   ''
+summary:   'The post will provide a comprehensive exploration of how to create a Chrome Extension Flutter'
 link: ''
 tags: [Flutter, Dart, Flutter-Web]
 ---
