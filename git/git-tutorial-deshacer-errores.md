@@ -6,7 +6,9 @@ lang: es
 status: published
 summary: Los errores pueden pasar, el desarrollo de software es un proceso creativo y que involucra personas, las personas cometemos errores. Para eso es git, es nuestro helper, nuestra muralla para combatir errores.
 link: https://blog.jamescardona11.com/git-deshacer-errores-p4
-series: Git para todos
+serie: 
+  order: 4
+  title: Git para todos
 tags: [git, beginner]
 ---
 

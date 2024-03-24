@@ -1,11 +1,14 @@
 ---
-title: Decoding Isolates: Basic to advanced concepts - Part3
+title: "Decoding Isolates: Basic to advanced concepts - Part3"
 date: 2024-2-20
 slug: decoding-isolates-part3
 status: published
 summary: In this post, we will explore some use cases for isolates in Flutter.
 link: https://medium.com/@jamescardona11/decoding-isolates-basic-to-advanced-concepts-part-3-53a766a1f2e6
 tags: [Flutter, Dart, Isolates, Concurrency]
+serie: 
+  order: 3
+  title: decoding-isolates
 ---
 
 
