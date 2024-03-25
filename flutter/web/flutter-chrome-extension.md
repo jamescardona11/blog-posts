@@ -3,7 +3,7 @@ title: Flutter Chrome Extension
 date: 2024-2-21
 status: draft
 summary:   'The post will provide a comprehensive exploration of how to create a Chrome Extension Flutter'
-link: ''
+link: https://blog.jamescardona11.com/flutter-chrome-extension
 tags: [Flutter, Dart, Flutter-Web]
 ---
 
@@ -245,7 +245,7 @@ With this you can see how the popup is launched when the counter is clicked; and
 This is the basic setup and how to communicate between components.
 
 <p align="center" width="100%">
-<img src="https://i.imgur.com/tMd7t43.gif" title="exchange SendPort" width="650"/>
+<img src="https://i.imgur.com/uPjIqJF.png" title="exchange SendPort" width="650"/>
 </p>
 
 
@@ -419,8 +419,7 @@ In this post, we have covered the basic setup for a Flutter Chrome Extension, ho
 
 Additional we see how to use Flutter to call the ChatGPT API to summarize the text of the current page.
 
-Something is missing is summarize the selected text; in the next post we are going to cover how to do that.
-I tried to do it in this post but I had some problems with the interaction of some current JS API; also communicate the background/contentScript with the Extension is a challenge with Flutter.
+Summarizing the selected text needs to be added; in the next post, we'll cover how to do that. I tried to do it in this post but needed some help with the interaction of some current JS APIs; also communicating the background/contentScript with the Extension is a challenge with Flutter.
 
 
 ## Conclusion
@@ -431,6 +430,11 @@ If you are thinking in create a Chrome Extension that use a lot interaction with
 
 If you plan is create an extension that use the Flutter UI; I recommend you to use Flutter; is a good way to create a cross-platform extension.
 
+
+
+Thank you for reading this far. Consider giving it a like, sharing it, and staying tuned for future articles. Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/jamescardona11/).
+
+![](https://i.imgur.com/q7fqQHS.gif)
 
 ### References
 - https://zfinix.medium.com/building-a-chrome-extension-with-flutter-751e0674df09

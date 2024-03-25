@@ -4,7 +4,7 @@ date: 2024-2-20
 slug: decoding-isolates-part2
 status: published
 summary: In this post, we will learn how to communicate between isolates and some best practices to keep in mind when working with isolates.
-link: https://medium.com/@jamescardona11/decoding-isolates-basic-to-advanced-concepts-part2-b94e0b03eff2
+link: https://blog.jamescardona11.com/decoding-isolates-basic-to-advanced-concepts-part2
 tags: [Flutter, Dart, Isolates, Concurrency]
 serie: 
   order: 2
