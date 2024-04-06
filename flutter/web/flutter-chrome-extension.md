@@ -1,8 +1,8 @@
 ---
 title: Flutter Chrome Extension
 date: 2024-2-21
-status: draft
-summary:   'The post will provide a comprehensive exploration of how to create a Chrome Extension Flutter'
+status: published
+summary:   'The post will provide a comprehensive exploration of how to create a Chrome Extension with Flutter'
 link: https://blog.jamescardona11.com/flutter-chrome-extension
 tags: [Flutter, Dart, Flutter-Web]
 ---
@@ -199,7 +199,7 @@ chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) {
 });
 ```
 Also we need to create the `create_popup` function to show the popup.
-You can check the `create_popup` code in the [official repository](https://github.com/jamescardona11/flutter_chrome_extension_demo/blob/main/web/contentScript.js)
+You can check the `create_popup` code in the [official repository](https://github.com/jamescardona11/blog-code/tree/main/flutter_chrome_extension_demo)
 
 
 1) Finally, we need to update the `main.dart` file to call the `sendMessage` function when the counter is clicked.
