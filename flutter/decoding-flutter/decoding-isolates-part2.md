@@ -3,7 +3,7 @@ title: "Decoding Isolates: Basic to advanced concepts - Part2"
 date: 2024-2-20
 slug: decoding-isolates-part2
 status: published
-summary: In this post, we will learn how to communicate between isolates and some best practices to keep in mind when working with isolates.
+summary: Now, let's explore how to communicate between isolates and some essential practices to bear in mind. Utilizing the Actor Model, we'll focus on exchanging messages between isolates using SendPort and ReceivePort.
 link: https://blog.jamescardona11.com/decoding-isolates-basic-to-advanced-concepts-part2
 tags: [Flutter, Dart, Isolates, Concurrency]
 serie: 

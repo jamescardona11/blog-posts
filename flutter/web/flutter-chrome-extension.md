@@ -2,7 +2,7 @@
 title: Flutter Chrome Extension
 date: 2024-2-21
 status: published
-summary:   'The post will provide a comprehensive exploration of how to create a Chrome Extension with Flutter'
+summary: 'Excited to dive into creating a Chrome Extension with Flutter! This post will cover fundamental concepts to help us understand how to achieve our goal: building a Chrome Extension that summarizes text using ChatGPT.'
 link: https://blog.jamescardona11.com/flutter-chrome-extension
 tags: [Flutter, Dart, Flutter-Web]
 ---

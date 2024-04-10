@@ -3,7 +3,7 @@ title: "Decoding Isolates: Basic to advanced concepts - Part3"
 date: 2024-2-20
 slug: decoding-isolates-part3
 status: published
-summary: In this post, we will explore some use cases for isolates in Flutter.
+summary: In this post, we will explore some use cases for isolates in Flutter. We will see how to use isolates to process images and upload them to a server. We will also see how to use isolates to perform heavy computations in the background.
 link: https://blog.jamescardona11.com/decoding-isolates-basic-to-advanced-concepts-part3
 tags: [Flutter, Dart, Isolates, Concurrency]
 serie: 
