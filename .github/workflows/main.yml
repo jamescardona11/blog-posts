@@ -27,7 +27,9 @@ jobs:
 
       - name: Create commit
         run: |
-          cd -
+          cd ..
+          cd ..
+          cd ..
           echo "$(date)" >> automated.txt
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
