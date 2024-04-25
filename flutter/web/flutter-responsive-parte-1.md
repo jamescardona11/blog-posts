@@ -6,6 +6,7 @@ status: published
 slug: flutter-responsive-parte-1
 summary: Hacer aplicaciones es un tarea sencilla y generalmente orientada a dispositivos móviles, ¿qué pasa cuando la aplicación se extiende a tablets o web?, generalmente el responsive es obligatorio hoy en día y en las aplicaciones móviles solo que en casos muy puntuales debemos hacer cambios para que se adapte nuestra UI, pero en general no es una preocupación.
 link: https://blog.jamescardona11.com/flutter-responsive-parte-1
+canonicalUrl: https://blog.jamescardona11.com/flutter-responsive-parte-1
 tags: [flutter, web]
 ---
 

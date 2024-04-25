@@ -5,6 +5,8 @@ status: published
 slug: mejores-extensiones-para-flutter
 lang: es
 summary: Las extensiones son una gran forma de realizar el trabajo más fácil y rápido. Pueden ser el complemento ideal para tener ayudas visuales o reducir el proceso de desarrollo.
+link: https://blog.jamescardona11.com/mejores-extensiones-para-flutter
+canonicalUrl: https://blog.jamescardona11.com/mejores-extensiones-para-flutter
 ---
 
 # Flutter - Mi top extensiones para facilitar mi desarrollo.

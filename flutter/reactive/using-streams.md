@@ -4,6 +4,7 @@ date: 2022-2-30
 status: published
 summary: In this post, we will explore the basics of using Streams in Flutter.
 link: https://blog.jamescardona11.com/using-streams
+canonicalUrl: https://blog.jamescardona11.com/using-streams
 tags: [dart, flutter, reactive-programming]
 ---
 

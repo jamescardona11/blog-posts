@@ -5,6 +5,7 @@ slug: decoding-isolates-part1
 status: published
 summary:  The post will provide a comprehensive exploration of Dart isolates, covering fundamental concepts and advanced techniques. It will delve into the basics of isolates, their role in concurrency, and how they relate to futures and streams.
 link: https://blog.jamescardona11.com/decoding-isolates-basic-to-advanced-concepts-part-1
+canonicalUrl: https://medium.com/@jamescardona11/decoding-isolates-basic-to-advanced-concepts-part-1-d3289c9f2f16
 tags: [Flutter, Dart, Isolates, Concurrency]
 serie: 
   order: 1
