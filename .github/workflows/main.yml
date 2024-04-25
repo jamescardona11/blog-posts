@@ -19,7 +19,9 @@ jobs:
           submodules: 'recursive'
 
       - name: Update submodule
-        run: git submodule update --remote --merge src/content/posts
+        run: |
+          cd src/content/posts
+          git pull origin main
 
       - name: Create commit
         run: |
