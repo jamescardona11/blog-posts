@@ -6,6 +6,8 @@ lang: es
 status: published
 summary: Clojure, un lenguaje funcional, ofrece inmutabilidad, rendimiento Java, secuencias perezosas y capacidades de concurrencia, enriqueciendo la programación.
 tags: [clojure, functional]
+link: https://blog.jamescardona11.com/clojure-conceptos-basicos
+canonicalUrl: https://blog.jamescardona11.com/clojure-conceptos-basicos
 ---
 
 Es raro estar escribiendo esto, solo soy un aficionado a clojure. Probablemente, lo hago porque es un reto para mí un lenguaje como este, simplemente quiero ver que puedo crear a partir de esto. **Sic parvis magna.**

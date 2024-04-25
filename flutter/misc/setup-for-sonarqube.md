@@ -4,6 +4,7 @@ date: 2021-7-14
 lang: en
 status: published
 link: https://dev.to/jamescardona11/flutter-code-static-analysis-with-sonarqube-3b39
+canonicalUrl: https://dev.to/jamescardona11/flutter-code-static-analysis-with-sonarqube-3b39
 summary: Sonarqube, like many similar tools, allows us to perform static code analysis, this will guide us to detect points of improvement.
 ---
 This article will give you a brief introduction to an analysis tool for your code.

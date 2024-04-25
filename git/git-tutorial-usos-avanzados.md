@@ -6,6 +6,7 @@ lang: es
 status: published
 summary: En este tutorial y el próximo vamos a ver algunas situaciones particulares y como las podemos gestionar con git.
 link: https://blog.jamescardona11.com/git-uso-avanzado-p3
+canonicalUrl: https://blog.jamescardona11.com/git-uso-avanzado-p3
 serie: 
   order: 3
   title: Git para todos

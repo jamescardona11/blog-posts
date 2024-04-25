@@ -5,6 +5,7 @@ slug: building-a-side-project-part-1
 status: published
 summary: There are a lot of reasons to start a side project, this is not part of your main job, but you can use this like a "takeoff ramp" to your career, here are some reasons to start. 
 link: https://dev.to/jamescardona11/building-a-side-project-for-developers-part-1-4nn3
+canonicalUrl: https://medium.com/@jamescardona11/building-a-side-project-for-developers-part-1-4fd2289cb755
 tags: [side-project]
 serie: 
   order: 1

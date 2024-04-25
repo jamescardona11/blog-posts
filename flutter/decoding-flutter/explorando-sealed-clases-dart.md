@@ -6,6 +6,7 @@ lang: es
 status: published
 summary: Las Sealed Classes ofrecen una solución poderosa para controlar la jerarquía de clases en la programación orientada a objetos. Al restringir la herencia a un conjunto específico de subclases, brindan control, estabilidad y expresividad al código.
 link: https://medium.com/@jamescardona11/explorando-las-selaed-clases-dart-f3e1ed2bb11d
+canonicalUrl: https://medium.com/@jamescardona11/explorando-las-selaed-clases-dart-f3e1ed2bb11d
 tags: [flutter, dart, oop]
 ---
 

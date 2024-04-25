@@ -6,6 +6,7 @@ status: published
 lang: es
 summary: Este es un post para una serie llamada quick-post la idea es poder hacer algunos post cortos con información sobre productividad, herramientas y diferentes cosas que me han servido para ser más productivo y con suerte esto le servirá a alguien y adicionalmente alguien me dejará recomendaciones para seguir mejorando.
 link: https://blog.jamescardona11.com/como-hago-para-ser-mas-productivo
+canonicalUrl: https://blog.jamescardona11.com/como-hago-para-ser-mas-productivo
 ---
 
 # ¿Qué hago para ser más productivo?

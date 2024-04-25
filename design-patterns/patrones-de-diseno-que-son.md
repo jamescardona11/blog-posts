@@ -6,6 +6,7 @@ lang: es
 status: published
 summary: Los patrones de diseño son marcos de referencia que ayudan a resolver problemas recurrentes en el desarrollo de software.
 link: https://blog.jamescardona11.com/patrones-de-diseno-1
+canonicalUrl: https://blog.jamescardona11.com/patrones-de-diseno-1
 tags: [design-patterns, architecture]
 ---
 

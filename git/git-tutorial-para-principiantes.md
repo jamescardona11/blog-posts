@@ -6,6 +6,7 @@ lang: es
 status: published
 summary: La idea principal es aprender de git más allá de lo que sé ahora. Quiero recordarme que lo básico en muchos casos es mejor. Git es la base para el trabajo distribuido vamos a lo básico y aprendamos algo que es para toda la vida.
 link: https://blog.jamescardona11.com/git-principiantes-p1
+canonicalUrl: https://blog.jamescardona11.com/git-principiantes-p1
 serie: 
   order: 1
   title: Git para todos
