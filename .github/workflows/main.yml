@@ -16,6 +16,10 @@ jobs:
           repository: jamescardona11/personal-page
           token: ${{ secrets.SS_TOKEN }}
           ref: main
+          submodules: 'recursive'
+
+      - name: Update submodule
+        run: git submodule update --remote --merge src/content/posts
 
       - name: Create commit
         run: |
