@@ -2,29 +2,28 @@
 title: Building a side project for developers - Part 1
 date: 2024-4-18
 slug: building-a-side-project-part-1
-status: draft
-summary:  
-link: 
+status: published
+summary: There are a lot of reasons to start a side project, this is not part of your main job, but you can use this like a "takeoff ramp" to your career, here are some reasons to start. 
+link: https://dev.to/jamescardona11/building-a-side-project-for-developers-part-1-4nn3
 tags: [side-project]
 serie: 
   order: 1
-  title: Side Project Journey
+  title: Building side projects
 ---
 
 ## Introduction
 
-What is the idea of this serie?, I'll be talking about my experience, I will share my journey of building a side project. I will share the process, the challenges, the learnings, and the outcomes. I started this journey because I wanted to learn new technologies, improve my skills, and have fun. I hope this series will inspire you to start your own side project.
+What is the idea of this series?, I'll be talking about my experience, and I will share my journey of building a side project. I will share the process, the challenges, the learnings, and the outcomes. I started this journey because I wanted to learn new technologies, improve my skills, and have fun. I hope this series will inspire you to start your side project.
 
-Most importantly, even though I'm not an expert, I'm still learning. The idea that is create an AI SaaS application. I will share the process of finding the idea, the technologies that I will use, the architecture, the design, the development, the deployment, and most importantly my goals.
+Most importantly, even though I'm not an expert, I'm still learning. The idea is to create an AI SaaS application. I will share the process of finding the idea, the technologies that I will use, the architecture, the design, the development, the deployment, and most importantly my goals.
 
 What is a side project? A side project is a project that you work on in your free time. It can be a hobby, a way to build auto-discipline, for me that is the first reason that I started this journey; I want to have something to push me to learn, to explore new things, not only developer things. Something that you can have in mind, a side project is not only to get money; it's a way to improve yourself.
 
 ## For who?
 
-This question can have multiple answers. But the short answer is everyone can build a Side Project, you don't need to have technical skills. In my short experience, the only skill that you need is the "desire to learn and explore new things", because you will find a lot of challenges, Do you have time? Do you have a good idea? Do you have the right skills? Do you have a bunch of projects that you started but never finished? 
+This question can have multiple answers. But the short answer is everyone can build a Side Project, you don't need to have technical skills. In my short experience, the only skill that you need is the "desire to learn and explore new things", because you will find a lot of challenges, Do you have time? Do you have a good idea? Do you have the right skills? Do you have a bunch of projects that you started but never finished?
 
-I know this could be overwhelming, but where do you begin? What should you create? How you can balance your time? All of these questions are part of the challenge but try not to overthink, just start, just do it.
-So are you ready to start your side project? Let's go!
+I know this could be overwhelming, but where do you begin? What should you create? How you can balance your time? All of these questions are part of the challenge but try not to overthink, just start, just do it. So are you ready to start your side project? Let's go!
 
 ## Why side projects?
 
@@ -32,11 +31,11 @@ There are a lot of reasons to start a side project, this is not part of your mai
 
 - Improving Skills
 - Portfolio Building
-- Problem Solving
+- Problem-Solving
 - Networking
 - Create a passive income
 
-The experience that you'll get after creating or building a side project is something that can use to improve your main job or get new opportunities, the goal is to have a goal, try to achieve it, and learn with the process.
+The experience that you'll get after creating or building a side project is something that can use to improve your main job or get new opportunities, the goal is to have a goal, try to achieve it, and learn with the process. 
 Not all side projects are to get money, some side projects can be a way to explore things that you can't do in your daily.
 
 
@@ -44,7 +43,7 @@ Not all side projects are to get money, some side projects can be a way to explo
 
 The truth is I don't have a strong answer for this, but the reality is that you can find ideas everywhere. 
 Here are some tips to find ideas:
-- The first place to start is what problems are you facing in your daily life?
+- The first place to start is what problems are you facing in your daily life.
 - Follow people who are building side projects, you can find a lot of inspiration.
 - Don't be afraid to look for inspiration in other projects, you can improve it, make it better, or more easy to use.
 - If you are looking to change your developer career, you can start with a small project.
@@ -62,10 +61,10 @@ Everyone needs to create a framework that helps to start and finish the project.
 </p>
 
 2) Choose the goal of your project, what do you want to achieve? 
-Image your project with all the features that you want to have, and after that, you can start to create an MVP (Minimum Viable Product) which is a version of a new product that allows you to collect the maximum amount of validated learning about customers with the least effort. That MVP can be a one or two main features of your project.
+Image your project with all the features that you want to have, and after that, you can start to create an MVP (Minimum Viable Product) which is a version of a new product that allows you to collect the maximum amount of validated learning about customers with the least effort. That MVP can be one or two main features of your project.
  
 3) You need to create a routine to work on your project, you need to be consistent start with a small goal, and increase the complexity. 
-Example: start with one hour per day. You can divide that hour into small fragments of time, don't need to be one hour straight. Thing what is the best way to be productive and in balance with your life.
+Example: start with one hour per day. You can divide that hour into small fragments of time, don't need to be one hour straight. Thing what is the best way to be productive and in balance with your life?.
 
 4) Use tools to help you to collect data, track your progress, and help you to be more productive.
 Example: Notion, Trello, Excalidraw, Miro, Figma, ClickUp, etc.
@@ -106,14 +105,14 @@ Do you need to spend money on this project? If yes, how much? Can you use tools 
 
 
 - ⚡ Problem: This section outlines the problem or pain point that your project aims to address. It provides context for why your project or product exists in the first place.
-- ✅ Solution: Here, you describe the solution you're proposing to solve the problem identified in the previous section. This could include features, technologies, or methodologies that you plan to implement.
+- ✅ Solution: Here, you describe the solution you propose to solve the problem identified in the previous section. This could include features, technologies, or methodologies that you plan to implement.
 - ❓ Define the Why: This section dives deeper into the motivations behind your project. It explores the underlying reasons why addressing this particular problem is important, both to you as the creator and to potential users or stakeholders.
 - 👮 Market competitors: Here, you analyze the competitive landscape surrounding your project. This includes identifying existing solutions or competitors in the market, understanding their strengths and weaknesses, and determining how your project differentiates itself.
 - 🌟 Value-Props: This section highlights the unique value propositions of your project. It articulates the key benefits or advantages that users will gain by using your solution, helping to communicate its value effectively.
 - 💻 MVP: MVP stands for Minimum Viable Product. In this section, you outline the core features and functionalities that constitute the minimum version of your product needed to address the problem and deliver value to users. It focuses on essential elements to validate your idea and gather feedback.
 - 🚀 Launch strategy: Here, you detail your plan for launching your project or product to the market. This includes considerations such as target audience, marketing channels, timing, and any promotional activities or events.
 - 🔄 Iterate (after 🚀 Launch): This section emphasizes the importance of ongoing iteration and improvement even after the initial launch. It highlights the iterative nature of product development, where feedback from users and market insights inform continuous refinement and enhancement.
-- 📪 Associated tasks: This section lists down any additional tasks or actions related to the project that need to be addressed. (Todo, In-progress, Done)
+- 📪 Associated tasks: This section lists any additional tasks or actions related to the project that need to be addressed. (Todo, In-progress, Done)
 
 ## Conclusion
 
@@ -121,7 +120,7 @@ In conclusion, embarking on a side project journey offers a plethora of opportun
 
 Finding ideas may seem daunting, but they can stem from everyday challenges, inspiration from others' projects, or a desire to innovate. 
 
-Establishing a structured approach, like the framework shared here, helps to navigate the complexities of side project development, from setting goals to leveraging tools for productivity and feedback. Ultimately, the journey of building a side project is as much about the process as it is about the outcome, offering valuable lessons and experiences along the way. So, if you're ready to embark on your side project adventure, remember: just start, embrace the challenges, and enjoy the ride.
+Establishing a structured approach, like the framework shared here, helps to navigate the complexities of side project development, from setting goals to leveraging tools for productivity and feedback. Ultimately, the journey of building a side project is as much about the process as it is about the outcome, offering valuable lessons and experiences along the way. So, if you're ready to embark on your side project adventure, remember: to just start, embrace the challenges, and enjoy the ride.
 
 
 ### Tip
@@ -132,7 +131,7 @@ If you can allocate time for your project, here are practical ways to track your
 
 - Establish a schedule: Utilize time tracking software to designate blocks of time for personal activities, work, and your side project.
 - Rise earlier: Consider waking up an hour earlier each day to carve out extra time for your side project without compromising your primary job commitments.
-- Priorize your time to achive your MVP.
+- Prioritize your time to achieve your MVP.
 
 ### Sneak Peek of Part 2
 
