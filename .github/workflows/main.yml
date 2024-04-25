@@ -21,7 +21,7 @@ jobs:
       - name: Update submodule
         run: |
           cd src/content/posts
-          git pull origin main --ff -f
+          git pull origin main --allow-unrelated-histories --ff -f
 
       - name: Create commit
         run: |
