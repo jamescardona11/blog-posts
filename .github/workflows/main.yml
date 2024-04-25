@@ -3,7 +3,7 @@ name: Commit to Repository2
 on:
   push:
     branches:
-      - main # Adjust branch name if needed
+      - main  # Adjust branch name if needed
 
 jobs:
   commit_to_repository2:
@@ -14,13 +14,15 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: jamescardona11/personal-page
-          token: ${{ secrets.SS_TOKEN }}
-          ref: main
-          submodules: 'recursive'
-
+          token: ${{ secrets.SS_TOKEN }} 
+          ref: main 
+      
+      
       - name: Update submodule
         run: |
           cd src/content/posts
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git pull origin main --allow-unrelated-histories --ff -f
 
       - name: Create commit
@@ -28,6 +30,7 @@ jobs:
           echo "$(date)" >> automated.txt
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add automated.txt
+          git add commit.txt
           git commit -m "Automated commit triggered by changes in blog-posts. - $(date)"
           git push
+
