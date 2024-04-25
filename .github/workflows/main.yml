@@ -29,7 +29,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           echo "$(date)" >> automated.txt
-          git add commit.txt
+          git add automated.txt
           git commit -m "Automated commit triggered by changes in blog-posts. - $(date)"
           git push
 
