@@ -68,9 +68,10 @@ Search market competitors, this part is easy, you can use ProductHunt, SideProje
 
 Why do we need to do this? The answer is simple, you need to know what is the market, what is the competition, and how you can improve your project. The idea is not to copy the project but to learn from them, and make it better.
 
-## MVP
+## MVP or MVE
 
-When embarking on a new product, my initial step is to establish its Minimum Viable Product (MVP).
+
+Maybe you have heard about MVP, if not, here is a simple explanation:
 Various interpretations exist for what constitutes an MVP, but generally, it refers to a product with the fewest features necessary to address the core problem.
 Confining development efforts to the MVP is crucial for two primary reasons. 
 
@@ -78,6 +79,7 @@ Confining development efforts to the MVP is crucial for two primary reasons.
 
 2) It guards against the temptation to endlessly add features and refine the product, potentially delaying its release by months or even years.
 
+MVE (Minimum Viable Experiment) is a concept that emphasizes validating your idea with the least amount of effort. It involves creating a simple experiment to test your hypothesis and gather feedback from users. By focusing on the core assumptions of your idea and testing them quickly, you can validate your concept and make informed decisions about its viability.
 
 
 To solve/create this side project, I created two diagrams to explain the process and how I can solve this problem.
@@ -91,7 +93,7 @@ To solve/create this side project, I created two diagrams to explain the process
 
 Which of these two options is the best for me? I choose the first one and the second one, let me explain why:
 - The first one is the best option because I want to learn new technologies, and I want to have more control over the project.
-Here the idea is simple create a first version with a single feature, that feature is something you can do directly with ChatGPT or other AI tools, but we can start collecting feedback and improve it from here. The plus is I have some good prompts. After the first launch, we can start building more features and start testing some features that are good candidates to be a premium feature.
+Here the idea is simple create a first version with a single feature, that feature is something you can do directly with ChatGPT or other AI tools, but we can start collecting feedback and improve it from here. After the first launch, we can start building more features and start testing some features that are good candidates to be a premium feature.
 
 <p align="center" width="100%">
 <img src="https://i.imgur.com/QJdElEi.png" title="code roadmap" width="450"/>
@@ -135,7 +137,7 @@ Some importantly, if you are not good with design, don't stop here your progress
 
 ## Conclusion
 
-In conclusion, laying the groundwork for a successful side project involves meticulous planning and strategic decision-making. In this part of the series, we delved into the crucial steps of ideation, creating a plan, and initiating the project. Understanding the problem at hand and devising a solution that addresses its core challenges is fundamental. By focusing on the problem rather than fixating on a specific solution, we ensure flexibility and adaptability throughout the development process.
+In conclusion, laying the groundwork for a successful side project involves meticulous planning and strategic decision-making. In this part of the series, we need to go deeper into the crucial steps of ideation, creating a plan, and initiating the project. Understanding the problem at hand and devising a solution that addresses its core challenges is fundamental. By focusing on the problem rather than fixating on a specific solution, we ensure flexibility and adaptability throughout the development process.
 
 Market research and competitor analysis provide invaluable insights into the existing landscape, allowing us to identify opportunities for improvement and differentiation. Establishing a Minimum Viable Product (MVP) enables us to validate our idea efficiently while avoiding unnecessary investment of time and resources.
 
@@ -143,7 +145,7 @@ Choosing between alternative approaches, such as leveraging new technologies ver
 
 Moreover, seeking inspiration from UI designs and visualizing the project's aesthetic direction adds depth and clarity to our vision. While design is important, it's essential not to let it overshadow the project's core value proposition.
 
-In the next part of the series, we will delve into the technical implementation, exploring how we translate our plan into action, build the AI application, and bring our vision to life. Stay tuned for the continuation of our side project journey.
+In the next part of the series, we will into the technical implementation, exploring how we translate our plan into action, build the AI application, and bring our vision to life. Stay tuned for the continuation of our side project journey.
 
 ### TIP
 
@@ -164,3 +166,4 @@ Prioritize building and shipping quickly, then refine and optimize as needed bas
 - [Build a Startup Without Quitting Your Day Job](https://www.jotform.com/blog/build-a-startup-without-quitting-your-day-job/)
 - [How to Create Successful Side Projects](https://www.indeed.com/career-advice/career-development/how-to-create-successful-side-project)
 - [How I Built My Side Project and Got 31,000 Users the First Week](https://www.freecodecamp.org/news/how-i-built-my-side-project-and-got-31-000-users-the-first-week-d9053bae5302/)
+- [MVP is Over. You Need to Think About MVE.](https://medium.com/entrepreneur-s-handbook/mvp-is-over-you-need-to-think-about-mve-5a87bc7ca2ef)

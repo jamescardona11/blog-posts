@@ -1,5 +1,5 @@
 ---
-title: Flutter Chrome Extension
+title: Flutter Chrome Extension - Part 1
 date: 2024-3-24
 status: published
 summary: 'Excited to dive into creating a Chrome Extension with Flutter! This post will cover fundamental concepts to help us understand how to achieve our goal: building a Chrome Extension that summarizes text using ChatGPT.'
@@ -24,7 +24,7 @@ In order to achieve this goal, we need to understand the following concepts:
 
 
 <p align="center" width="100%">
-<img src="https://i.imgur.com/IpxNxic.gif" title="exchange SendPort" width="350"/>
+<img src="https://i.imgur.com/IpxNxic.gif" width="350"/>
 </p>
 
 ## Create the Extension: Basic Setup
@@ -92,7 +92,7 @@ flutter build web --web-renderer html --csp
 6) Current result:
 
 <p align="center" width="100%">
-<img src="https://i.imgur.com/PPrGvFs.png" title="exchange SendPort" width="350"/>
+<img src="https://i.imgur.com/PPrGvFs.png" width="350"/>
 </p>
 
 
@@ -124,7 +124,7 @@ We are going to update the basic project to launch a popup when the counter acti
 
 
 <p align="center" width="100%">
-<img src="https://i.imgur.com/W6Qf5wA.png" title="exchange SendPort" width="650"/>
+<img src="https://i.imgur.com/W6Qf5wA.png"  width="650"/>
 </p>
 
 
@@ -143,7 +143,7 @@ chrome.tabs.onUpdated.addListener(
 ```
 
 <p align="center" width="100%">
-<img src="https://i.imgur.com/NMXgjET.png" title="exchange SendPort" width="650"/>
+<img src="https://i.imgur.com/NMXgjET.png"  width="650"/>
 </p>
 
 
@@ -246,7 +246,7 @@ With this you can see how the popup is launched when the counter is clicked; and
 This is the basic setup and how to communicate between components.
 
 <p align="center" width="100%">
-<img src="https://i.imgur.com/uPjIqJF.png" title="exchange SendPort" width="650"/>
+<img src="https://i.imgur.com/uPjIqJF.png" width="650"/>
 </p>
 
 
@@ -411,7 +411,7 @@ class _ChromePopupState extends State<ChromeHomePage> {
 ```
 
 <p align="center" width="100%">
-<img src="https://i.imgur.com/IpxNxic.gif" title="exchange SendPort" width="350"/>
+<img src="https://i.imgur.com/IpxNxic.gif" width="350"/>
 </p>
 
 ## What's next?
