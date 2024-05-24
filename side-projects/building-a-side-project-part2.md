@@ -2,9 +2,9 @@
 title: Building a side project for developers - Part 2
 date: 2024-4-18
 slug: building-a-side-project-part-2
-status: draft
-summary:  
-link: 
+status: published
+summary: In this part, I will talk about the ideation process how to use the tools to create a plan, and how to start with the project.
+link: https://dev.to/jamescardona11/building-a-side-project-for-developers-part-2-1epm
 tags: [side-project]
 serie: 
   order: 2
@@ -12,7 +12,7 @@ serie:
 ---
 
 ## Introduction
-In the first part of this series, I talked about the basic things about side projects, you can read it [here](TODO). In this part, I'm going to talk about the ideation process how to use the tools to create a plan, and how to start with the project.
+In the first part of this series, I talked about the basic things about side projects, you can read it [here](TODO). In this part, I will talk about the ideation process how to use the tools to create a plan, and how to start with the project.
 Maybe you are thinking, why do I need to create a plan? The answer is simple, the plan is the first step to start with the project, and it's a way to have a clear idea of what you want to achieve. This part is a little bit more visual and the technical solution is going to be in the next post.
 
 
@@ -40,7 +40,7 @@ Many individuals and businesses struggle to effectively grow their audience on s
 Factors contributing to this challenge include:
 
 1. **Limited Resources**: Many users lack the time, expertise, or resources to devise and implement effective audience growth strategies.
-2. **Lack of Insight**: Users often struggle to understand their target audience, their preferences, and the most effective content strategies to attract and retain followers.
+2. **Lack of Insight**: Users often struggle to understand their target audience, preferences, and the most effective content strategies to attract and retain followers.
 3. **Content Management**: Managing multiple social media platforms, creating engaging content consistently, and scheduling posts can be overwhelming and time-consuming.
 4. **Competition**: The crowded social media landscape makes it difficult to stand out and attract attention amidst competition from other users and brands.
 5. **Analytical Complexity**: Understanding the effectiveness of audience growth efforts through analytics and metrics can be daunting for many users.
@@ -66,7 +66,7 @@ Search market competitors, this part is easy, you can use ProductHunt, SideProje
 <img src="https://i.imgur.com/VXOUwQM.png" title="market competitors" width="450"/>
 </p>
 
-Why do we need to do this? The answer is simple, you need to know what is the market, what is the competition, and how you can improve your project. The idea is not to copy the project but to learn from them, and make it better.
+Why do we need to do this? The answer is simple, you need to know what is the market, what the competition is, and how you can improve your project. The idea is not to copy the project but to learn from them, and make it better.
 
 ## MVP or MVE
 
@@ -153,7 +153,9 @@ Prioritize Flexibility
 
 In the early stages of product development, customer needs can change rapidly. Build flexibility into your architecture to accommodate evolving requirements as you iterate with your customers. Focus on delivering a functional product first, then refine and scale later. Don't get bogged down with elaborate processes. 
 
-Prioritize building and shipping quickly, then refine and optimize as needed based on validation of your hypothesis.
+Prioritize building and shipping quickly, then refine and optimize as needed based on the validation of your hypothesis.
+
+Thank you for reading this far. Consider giving it a like, sharing it, and staying tuned for future articles. Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/jamescardona11/).
 
 
 ## References
