@@ -1,6 +1,6 @@
 ---
 title: Building a side project for developers - Part 2
-date: 2024-4-18
+date: 2024-5-24
 slug: building-a-side-project-part-2
 status: published
 summary: In this part, I will talk about the ideation process how to use the tools to create a plan, and how to start with the project.
